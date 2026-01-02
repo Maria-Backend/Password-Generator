@@ -1,16 +1,14 @@
 # Password Generator 🔒
 
-A Python project demonstrating secure password generation with console and desktop GUI versions.  
-Perfect for learning backend logic, randomization, and GUI integration.
-
+A Python project for generating secure passwords with both console and desktop GUI versions.  
+Ideal for learning backend logic, randomization, and GUI programming with PyQt5.
 ---
-
 ## Features
 
-- Generate strong passwords with letters, digits, and symbols.
-- Console version (v1) for simplicity.
-- Desktop GUI version (v2) with PyQt5:
-  - Adjustable password length with slider
+- **Console Version (v1)** – simple command-line password generator  
+- **Desktop GUI Version (v2)** – PyQt5 application with:
+  - Adjustable password length with a slider
   - Theme toggle (Light/Dark)
-  - Copy to clipboard functionality
-- Clean, modular Python code for readability and extension.
+  - Copy-to-clipboard functionality
+- Generates strong passwords using letters, digits, and symbols
+- Modular and readable Python code for easy maintenance
